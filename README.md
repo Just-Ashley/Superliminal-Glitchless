@@ -4,3 +4,4 @@ Make sure to download Livesplit and Superliminal. The Basic Superliminal ASL wil
 Right click livesplit and go to open splits from file, click on the split file and it will open the splits for you!
 NOTE: Blackout has an extra checkpoint whether you do Blind maze or not so the checkpoint splits will be labeled (No Blind Maze) and (Yes Blind Maze)
 If you have checkpoints (ILs or full game wt checkpoints), right click livesplit, click edit splits, then click settings next to autosplitter, and enable splitting on checkpoints. For levels, click individual level.
+If you have any problems, feel free to enter the superliminal discord and @ me OR DM me at @dagurlygurl
